@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/a12397/localrepos/local/vagrant/nginx","disabled":false},"vagrant-cache":{"id":"vagrant-cache","guestpath":"/tmp/vagrant-cache","hostpath":"/Users/a12397/.vagrant.d/cache/ubuntu-15.04","disabled":false}}}
