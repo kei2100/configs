@@ -26,7 +26,7 @@ max_connect_errors = 10000
 sort_buffer_size = 1M
 read_buffer_size = 1M
 myisam_sort_buffer_size = 1M
-thread_cache = 256
+thread_cache_size = 256
 query_cache_size = 0
 query_cache_type = 0
 tmp_table_size = 64M
@@ -83,7 +83,7 @@ quick
 max_allowed_packet = 16M
 
 [myisamchk]
-key_buffer = 8M
+key_buffer_size = 8M
 sort_buffer_size = 8M
 read_buffer = 1M
 write_buffer = 0M
